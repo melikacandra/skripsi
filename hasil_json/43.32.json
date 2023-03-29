@@ -1,0 +1,236 @@
+{
+  "responses": [
+    {
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "blocks": [
+              {
+                "blockType": "TEXT",
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 192,
+                      "y": 81
+                    },
+                    {
+                      "x": 10,
+                      "y": 89
+                    },
+                    {
+                      "x": 7,
+                      "y": 16
+                    },
+                    {
+                      "x": 189,
+                      "y": 8
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 192,
+                          "y": 81
+                        },
+                        {
+                          "x": 10,
+                          "y": 89
+                        },
+                        {
+                          "x": 7,
+                          "y": 16
+                        },
+                        {
+                          "x": 189,
+                          "y": 8
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 192,
+                              "y": 81
+                            },
+                            {
+                              "x": 10,
+                              "y": 89
+                            },
+                            {
+                              "x": 7,
+                              "y": 16
+                            },
+                            {
+                              "x": 189,
+                              "y": 8
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 192,
+                                  "y": 81
+                                },
+                                {
+                                  "x": 147,
+                                  "y": 83
+                                },
+                                {
+                                  "x": 144,
+                                  "y": 10
+                                },
+                                {
+                                  "x": 189,
+                                  "y": 8
+                                }
+                              ]
+                            },
+                            "text": "Z"
+                          },
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 144,
+                                  "y": 83
+                                },
+                                {
+                                  "x": 99,
+                                  "y": 85
+                                },
+                                {
+                                  "x": 96,
+                                  "y": 12
+                                },
+                                {
+                                  "x": 141,
+                                  "y": 10
+                                }
+                              ]
+                            },
+                            "text": "E"
+                          },
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 101,
+                                  "y": 85
+                                },
+                                {
+                                  "x": 55,
+                                  "y": 87
+                                },
+                                {
+                                  "x": 52,
+                                  "y": 14
+                                },
+                                {
+                                  "x": 98,
+                                  "y": 12
+                                }
+                              ]
+                            },
+                            "text": "E"
+                          },
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 55,
+                                  "y": 87
+                                },
+                                {
+                                  "x": 10,
+                                  "y": 89
+                                },
+                                {
+                                  "x": 7,
+                                  "y": 16
+                                },
+                                {
+                                  "x": 52,
+                                  "y": 14
+                                }
+                              ]
+                            },
+                            "property": {
+                              "detectedBreak": {
+                                "type": "LINE_BREAK"
+                              }
+                            },
+                            "text": "h"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "height": 97,
+            "width": 197
+          }
+        ],
+        "text": "ZEEh"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 6,
+                "y": 7
+              },
+              {
+                "x": 191,
+                "y": 7
+              },
+              {
+                "x": 191,
+                "y": 88
+              },
+              {
+                "x": 6,
+                "y": 88
+              }
+            ]
+          },
+          "description": "ZEEh",
+          "locale": "und"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 192,
+                "y": 81
+              },
+              {
+                "x": 10,
+                "y": 89
+              },
+              {
+                "x": 7,
+                "y": 16
+              },
+              {
+                "x": 189,
+                "y": 8
+              }
+            ]
+          },
+          "description": "ZEEh"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "responses": [
+    {
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "blocks": [
+              {
+                "blockType": "TEXT",
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 197,
+                      "y": 61
+                    },
+                    {
+                      "x": 193,
+                      "y": 255
+                    },
+                    {
+                      "x": 51,
+                      "y": 252
+                    },
+                    {
+                      "x": 55,
+                      "y": 58
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 197,
+                          "y": 61
+                        },
+                        {
+                          "x": 193,
+                          "y": 255
+                        },
+                        {
+                          "x": 51,
+                          "y": 252
+                        },
+                        {
+                          "x": 55,
+                          "y": 58
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 197,
+                              "y": 61
+                            },
+                            {
+                              "x": 193,
+                              "y": 255
+                            },
+                            {
+                              "x": 51,
+                              "y": 252
+                            },
+                            {
+                              "x": 55,
+                              "y": 58
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 197,
+                                  "y": 61
+                                },
+                                {
+                                  "x": 193,
+                                  "y": 255
+                                },
+                                {
+                                  "x": 51,
+                                  "y": 252
+                                },
+                                {
+                                  "x": 55,
+                                  "y": 58
+                                }
+                              ]
+                            },
+                            "property": {
+                              "detectedBreak": {
+                                "type": "LINE_BREAK"
+                              }
+                            },
+                            "text": "x"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "height": 229,
+            "width": 646
+          }
+        ],
+        "text": "x"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 50,
+                "y": 58
+              },
+              {
+                "x": 196,
+                "y": 58
+              },
+              {
+                "x": 196,
+                "y": 255
+              },
+              {
+                "x": 50,
+                "y": 255
+              }
+            ]
+          },
+          "description": "x",
+          "locale": "und"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 197,
+                "y": 61
+              },
+              {
+                "x": 193,
+                "y": 255
+              },
+              {
+                "x": 51,
+                "y": 252
+              },
+              {
+                "x": 55,
+                "y": 58
+              }
+            ]
+          },
+          "description": "x"
+        }
+      ]
+    }
+  ]
+}
