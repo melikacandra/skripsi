@@ -1,0 +1,26 @@
+<annotation>
+	<folder>label_(titik)</folder>
+	<filename>5.308.jpg</filename>
+	<path>D:\Skripsi\Dataset\dataset-utama\listrik digital\after_label\versi2\label_(titik)\5.308.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>137</ymin>
+			<xmax>123</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>
